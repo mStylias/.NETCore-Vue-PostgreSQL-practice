@@ -1,0 +1,12 @@
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\bin\Debug\net6.0\GoodBooks.Data.deps.json
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\bin\Debug\net6.0\GoodBooks.Data.dll
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\bin\Debug\net6.0\GoodBooks.Data.pdb
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\GoodBooks.Data.csproj.AssemblyReference.cache
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\GoodBooks.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\GoodBooks.Data.AssemblyInfoInputs.cache
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\GoodBooks.Data.AssemblyInfo.cs
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\GoodBooks.Data.csproj.CoreCompileInputs.cache
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\GoodBooks.Data.dll
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\refint\GoodBooks.Data.dll
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\GoodBooks.Data.pdb
+C:\Users\Michalis\Documents\GitHub\.NETCore-Vue-PostgreSQL-practice\GoodBooks\GoodBooks.Data\obj\Debug\net6.0\ref\GoodBooks.Data.dll

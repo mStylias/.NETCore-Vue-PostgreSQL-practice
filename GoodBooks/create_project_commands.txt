@@ -1,0 +1,11 @@
+.NET core:
+
+dotnet new sln
+dotnet new webapi -o GoodBooks.Web
+dotnet new classlib -f net6.0 -o GoodBooks.Data
+dotnet new classlib -f net6.0 -o GoodBooks.Services
+dotnet dotnet new xunit -o GoodBooks.Testing
+dotnet sln add GoodBooks.Web
+dotnet sln add GoodBooks.Data
+dotnet sln add GoodBooks.Services
+dotnet sln add GoodBooks.Testing
