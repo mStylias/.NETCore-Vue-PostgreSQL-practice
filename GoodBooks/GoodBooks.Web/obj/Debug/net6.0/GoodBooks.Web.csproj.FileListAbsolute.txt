@@ -25,3 +25,14 @@
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/obj/Debug/net6.0/GoodBooks.Web.pdb
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/obj/Debug/net6.0/GoodBooks.Web.genruntimeconfig.cache
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/obj/Debug/net6.0/ref/GoodBooks.Web.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Humanizer.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Npgsql.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/GoodBooks.Data.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/GoodBooks.Data.pdb

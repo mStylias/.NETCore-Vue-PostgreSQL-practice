@@ -10,4 +10,7 @@ dotnet sln add GoodBooks.Data
 dotnet sln add GoodBooks.Services
 dotnet sln add GoodBooks.Testing
 
-*
+* Use makefile for migrations
+
+1) Install the dotnet-ef tool using: dotnet tool install --global dotnet-ef --version 6.0.4
+2) Execute command: make migrations mname=Initial
