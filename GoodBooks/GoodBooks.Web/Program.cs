@@ -1,4 +1,5 @@
 using GoodBooks.Data;
+using GoodBooks.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,7 @@ builder.Services.AddDbContext<GoodBooksDbContext>(opts =>
     opts.EnableDetailedErrors();
     opts.UseNpgsql(builder.Configuration.GetConnectionString("goodbooks.dev"));
 });
+builder.Services.AddScoped<IBookService, BookService>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -23,6 +25,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(builder => builder
+    .AllowAnyOrigin()
+    .AllowAnyMethod()
+    .AllowAnyHeader()
+);
 
 app.UseHttpsRedirection();
 

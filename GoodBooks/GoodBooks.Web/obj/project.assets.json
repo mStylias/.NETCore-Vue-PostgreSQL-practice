@@ -374,6 +374,19 @@
         "runtime": {
           "bin/placeholder/GoodBooks.Data.dll": {}
         }
+      },
+      "GoodBooks.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GoodBooks.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GoodBooks.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodBooks.Services.dll": {}
+        }
       }
     }
   },
@@ -981,11 +994,17 @@
       "type": "project",
       "path": "../GoodBooks.Data/GoodBooks.Data.csproj",
       "msbuildProject": "../GoodBooks.Data/GoodBooks.Data.csproj"
+    },
+    "GoodBooks.Services/1.0.0": {
+      "type": "project",
+      "path": "../GoodBooks.Services/GoodBooks.Services.csproj",
+      "msbuildProject": "../GoodBooks.Services/GoodBooks.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "GoodBooks.Data >= 1.0.0",
+      "GoodBooks.Services >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.4",
@@ -1021,6 +1040,9 @@
           "projectReferences": {
             "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj": {
               "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj"
+            },
+            "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj": {
+              "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj"
             }
           }
         }
