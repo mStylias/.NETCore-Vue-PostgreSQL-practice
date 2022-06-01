@@ -1,0 +1,14 @@
+Vue types for research:
+
+❯◉ Babel
+ ◯ TypeScript
+ ◯ Progressive Web App (PWA) Support
+ ◯ Router
+ ◯ Vuex
+ ◯ CSS Pre-processors
+ ◉ Linter / Formatter
+ ◯ Unit Testing
+ ◯ E2E Testing
+
+Vue setup tutorial
+9:05 : https://youtu.be/HIkQcLcn02s
