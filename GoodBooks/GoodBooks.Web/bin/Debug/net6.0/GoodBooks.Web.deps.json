@@ -9,6 +9,7 @@
       "GoodBooks.Web/1.0.0": {
         "dependencies": {
           "GoodBooks.Data": "1.0.0",
+          "GoodBooks.Services": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.4",
           "Microsoft.EntityFrameworkCore.Design": "6.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.4",
@@ -235,6 +236,14 @@
         "runtime": {
           "GoodBooks.Data.dll": {}
         }
+      },
+      "GoodBooks.Services/1.0.0": {
+        "dependencies": {
+          "GoodBooks.Data": "1.0.0"
+        },
+        "runtime": {
+          "GoodBooks.Services.dll": {}
+        }
       }
     }
   },
@@ -441,6 +450,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "GoodBooks.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoodBooks.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

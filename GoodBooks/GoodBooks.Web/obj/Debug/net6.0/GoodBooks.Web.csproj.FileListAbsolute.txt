@@ -36,3 +36,5 @@
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/GoodBooks.Data.dll
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/GoodBooks.Data.pdb
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/GoodBooks.Services.dll
+/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/bin/Debug/net6.0/GoodBooks.Services.pdb

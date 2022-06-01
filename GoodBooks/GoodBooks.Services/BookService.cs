@@ -34,10 +34,13 @@ public class BookService : IBookService
         if (bookToDelete != null)
         {
             _db.Remove(bookToDelete);
+            _db.SaveChanges();
         }
-
-        throw new InvalidOperationException(
-            "Can't Delete book that doesn't exist"
-        );
+        else
+        {
+            throw new InvalidOperationException(
+                "Can't Delete book that doesn't exist"
+            );
+        }
     }
 }
