@@ -5982,11 +5982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/GoodBooks.Testing.csproj",
+      "projectUniqueName": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/GoodBooks.Testing.csproj",
       "projectName": "GoodBooks.Testing",
-      "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/GoodBooks.Testing.csproj",
+      "projectPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/GoodBooks.Testing.csproj",
       "packagesPath": "/home/style_m/.nuget/packages/",
-      "outputPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/obj/",
+      "outputPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/style_m/.nuget/NuGet/NuGet.Config"

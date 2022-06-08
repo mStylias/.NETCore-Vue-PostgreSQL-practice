@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "teWSmg5fYSQBvJwX88Jo7xL42JkPoWL2AjSU4S30jWsbsUKi8LVs/JX61ucb4Ii6SJ5Rw/v7r3X8G2iOypTRug==",
+  "dgSpecHash": "xSG5dGVUWftlueD0yQ5+ZaRTkS03ngJTD2/Sqs7zyps4nBsQbJOc3iXWrwr8dNtqbPq2Q5okKQh0yA33fI4AZw==",
   "success": true,
-  "projectFilePath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj",
+  "projectFilePath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj",
   "expectedPackageFiles": [
     "/home/style_m/.nuget/packages/microsoft.entityframeworkcore/6.0.4/microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "/home/style_m/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.4/microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",

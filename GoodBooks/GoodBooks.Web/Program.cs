@@ -29,10 +29,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors(builder => builder
-    .WithOrigins(
-        "http://localhost:8080"
-        )
+app.UseCors(corsBuilder => corsBuilder
+    .WithOrigins("http://localhost:8080")
     .AllowAnyMethod()
     .AllowAnyHeader()
 );

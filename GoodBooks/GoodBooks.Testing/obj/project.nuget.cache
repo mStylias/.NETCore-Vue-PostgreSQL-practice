@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W5ivGWZiknAD6wL8HcSijemVXBu3UUB5IaAk0DSfH14b7co9qSMI3iOf4j6yMsyOjLlyz7D6y38eaZ8nX2518g==",
+  "dgSpecHash": "CA0aq4Sir2hpEyOOlyMU91j/Uqry8g4vkjJYebYQY4etzIl9a08yTLcvFcBvnM/RDidIwNesPI0Jpe30Xy4Ecg==",
   "success": true,
-  "projectFilePath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/GoodBooks.Testing.csproj",
+  "projectFilePath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Testing/GoodBooks.Testing.csproj",
   "expectedPackageFiles": [
     "/home/style_m/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/home/style_m/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",

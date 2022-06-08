@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj": {}
+    "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj": {}
   },
   "projects": {
-    "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj": {
+    "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj",
+        "projectUniqueName": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj",
         "projectName": "GoodBooks.Data",
-        "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj",
+        "projectPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj",
         "packagesPath": "/home/style_m/.nuget/packages/",
-        "outputPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/obj/",
+        "outputPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/style_m/.nuget/NuGet/NuGet.Config"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj": {
+    "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj",
+        "projectUniqueName": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj",
         "projectName": "GoodBooks.Services",
-        "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj",
+        "projectPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj",
         "packagesPath": "/home/style_m/.nuget/packages/",
-        "outputPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/",
+        "outputPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/style_m/.nuget/NuGet/NuGet.Config"
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj": {
-                "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj"
+              "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj": {
+                "projectPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj": {
+    "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj",
+        "projectUniqueName": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj",
         "projectName": "GoodBooks.Web",
-        "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj",
+        "projectPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj",
         "packagesPath": "/home/style_m/.nuget/packages/",
-        "outputPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/obj/",
+        "outputPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/style_m/.nuget/NuGet/NuGet.Config"
@@ -144,11 +144,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj": {
-                "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj"
+              "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj": {
+                "projectPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Data/GoodBooks.Data.csproj"
               },
-              "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj": {
-                "projectPath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj"
+              "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj": {
+                "projectPath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/GoodBooks.Services.csproj"
               }
             }
           }

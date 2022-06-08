@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dHXw4LayzwSWs9h+rdbw3vxUAi0ie/605KR4dfMNN+bPig+eR7h6ut2/UYtIUh6qrHMUuj+G0324xnblihyicg==",
+  "dgSpecHash": "YcWMHV8ohWTGy46Fo8SEz6oY/cLPixqoKKlaeyF0BQ10bDZaTovDYBaDR6bmu4Rh9BvQWDM4lYJpNtvykK8mPg==",
   "success": true,
-  "projectFilePath": "/media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj",
+  "projectFilePath": "/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Web/GoodBooks.Web.csproj",
   "expectedPackageFiles": [
     "/home/style_m/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/style_m/.nuget/packages/microsoft.entityframeworkcore/6.0.4/microsoft.entityframeworkcore.6.0.4.nupkg.sha512",

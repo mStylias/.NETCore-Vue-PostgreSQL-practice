@@ -13,3 +13,18 @@
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/bin/Debug/net6.0/GoodBooks.Data.dll
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/bin/Debug/net6.0/GoodBooks.Data.pdb
 /media/style_m/Crucial SSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.csproj.CopyComplete
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/bin/Debug/net6.0/GoodBooks.Services.deps.json
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/bin/Debug/net6.0/GoodBooks.Services.dll
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/bin/Debug/net6.0/GoodBooks.Services.pdb
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/bin/Debug/net6.0/GoodBooks.Data.dll
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/bin/Debug/net6.0/GoodBooks.Data.pdb
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.csproj.AssemblyReference.cache
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.GeneratedMSBuildEditorConfig.editorconfig
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.AssemblyInfoInputs.cache
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.AssemblyInfo.cs
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.csproj.CoreCompileInputs.cache
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.csproj.CopyComplete
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.dll
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/refint/GoodBooks.Services.dll
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/GoodBooks.Services.pdb
+/media/style_m/CrucialSSD/Github/.NETCore-Vue-PostgreSQL-practice/GoodBooks/GoodBooks.Services/obj/Debug/net6.0/ref/GoodBooks.Services.dll
