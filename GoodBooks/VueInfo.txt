@@ -12,3 +12,8 @@ Vue types for research:
 
 Vue setup tutorial
 9:05 : https://youtu.be/HIkQcLcn02s
+
+--------------------------------------
+
+Communication with backend: https://vuejs.org/guide/scaling-up/tooling.html
+

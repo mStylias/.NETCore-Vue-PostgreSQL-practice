@@ -30,7 +30,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors(corsBuilder => corsBuilder
-    .WithOrigins("http://localhost:8080")
+    .WithOrigins("http://localhost:9000")
     .AllowAnyMethod()
     .AllowAnyHeader()
 );
